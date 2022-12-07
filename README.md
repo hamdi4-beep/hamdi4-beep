@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamdi Kamel</h1>
-<h3 align="center">A self-driven software engineer with strong passion for learning and sharing experience. I build software that solves problems efficiently and in a way that's easy to use.</h3>
+<h3 align="center">A self-driven software engineer with strong passion for learning and sharing experience. I write code that solves problems <em>efficiently<em> and <em>effectively</em>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
