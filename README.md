@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamdi Kamel</h1>
-<h3 align="center">A self-driven and focused software engineer with strong passion for learning and sharing experience.</h3>
+<h3 align="center">A self-driven and enthusiastic frontend developer with strong passion for learning and sharing experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [Design System](https://github.com/hamdi4-beep/Design-System)
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **AngularJS, Vue**
 
-- 👨‍💻 All of my projects are available at [https://hamdi4-beep.github.io/portfolio](https://hamdi4-beep.github.io/portfolio)
-
-- 💬 Ask me about **HTML, CSS, JS, ReactJS, NodeJS**
+- 💬 Ask me about **JavaScript, TypeScript, React, PHP**
 
 - 📫 How to reach me **hamdiakippuden@gmail.com**
 
