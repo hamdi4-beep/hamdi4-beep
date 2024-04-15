@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">A frontend dev with solid analytical and critical thinking skills. Always curious about new technologies and learning more elegant ways to write structured and highly maintainable code.</h3>
+<h3 align="center">Heya, I'm a solution-driven frontend dev! I'm always expanding my skillset by learning more popular technologies so I can develop efficient solutions that make an impact. My approach isn't to develop solutions that merely delay bugs from emerging. It's to solve the underlying problem with excellence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
