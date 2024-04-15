@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">Heya, I'm a solution-driven frontend dev! I'm always expanding my skillset by learning more popular technologies so I can develop efficient solutions that make an impact. My approach isn't to develop solutions that merely delay bugs from emerging. It's to solve the underlying problem with excellence.</h3>
+<h3 align="center">"I'm a solution-focused frontend dev driven by the curiosity to learn more popular technologies so I can apply solutions in broader fields of software.
+
+My mission is to develop an efficient solution that solves underlying problem and achieve impactful end-results."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
