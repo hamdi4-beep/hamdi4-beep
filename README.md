@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">I'm a solution-oriented frontend dev driven by a constant willingness to learn effectively. Highly competent in resolving underlying software issues by applying best practices and sticking to well-known conventions that deliver performant and scalable web applications.</h3>
+<h3 align="center">I'm a solution-oriented frontend dev driven by a constant willingness to learn effectively. Highly competent in leveraging React.js, JavaScript and TypeScript to develop secure and performant web applications by following best-practices and sticking to well-known conventions for a more readable and easier to maintain codebase.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
