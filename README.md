@@ -7,11 +7,11 @@ Highly competent in leveraging React.js, TypeScript to develop fully responsive 
 
 <p align="left"> <a href="https://twitter.com/hamdi33727935" target="blank"><img src="https://img.shields.io/twitter/follow/hamdi33727935?logo=twitter&style=for-the-badge" alt="hamdi33727935" /></a> </p>
 
-- 🔭 I’m currently working on [Design System](https://github.com/hamdi4-beep/Design-System)
+- 🔭 I’m currently working on [Age Calculator]([https://github.com/hamdi4-beep/Design-System](https://github.com/hamdi4-beep/age-calculator-app-main))
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **JavaScript, TypeScript, React, PHP**
+- 💬 Ask me about **JavaScript, TypeScript, React, PHP, User Interface, User Experience**
 
 - 📫 How to reach me **hamdiakippuden@gmail.com**
 
