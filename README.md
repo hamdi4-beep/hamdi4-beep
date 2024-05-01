@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">I'm a solution-oriented frontend dev driven by a constant willingness to learn effectively.
+<h3 align="center">I'm a solution-oriented frontend dev driven by a persistent willingness to learn consistently.
   
 Highly competent in leveraging React.js, TypeScript to develop fully responsive and scalable web applications by applying best-practices and following well-known conventions for a more readable and easier to maintain codebase.</h3>
 
