@@ -1,11 +1,17 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">"I'm a solution-oriented frontend dev driven by a persistent willingness to learn consistently and grow a set of valuable skills.<br /><br />
+<h3 align="center">"I'm a solution-oriented developer driven by a dedication for learning consistently and develop extensive set of skills.
 
-Highly competent in leveraging React.js, TypeScript to develop performant and secure web applications that deliver a seamless user experience.<br />
+I've worked professionally with JavaScript, React.js and TypeScript to develop performant and secure applications that deliver intuitive experience for users.
 
-I ensure scalable and maintainable codebases by applying best practices and following well-known conventions, which makes the code easier to read and extend with newer functionalities.<br />
+I ensure a code that's scalable and maintainable by following best practices which allows for a high-quality codebase that's easily understood by others working on the same project.
 
-I'm also quite fervent about crafting visually appealing interfaces that drive engagement with the content through conducting a thorough research on usability and the target audience."</h3>
+I approach the development of every application with simplicity at the forefront of the mind which significantly reduces unnecessary complexities and allows for more time to focus on important functionalities that matter to the business and users.
+
+I am genuienly passionate about crafting unique experiences and exchanging ideas in a team-based setting.
+
+With my expertise in the field and positive attitude, I believe I would make a great team member and collaborator.
+
+Line by line, we'll develop apps that change lives for the better!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
