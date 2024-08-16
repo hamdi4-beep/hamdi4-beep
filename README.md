@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
 <h3 align="center">"I'm a solution-oriented developer driven by the dedication to learn consistently and expand my skillset with valuable skills.
 
-
 I've worked professionally with React.js, and TypeScript to develop performant and secure applications that work seamlessly on both desktop and mobile devices.
 
 I write scalable and maintainable source code by following best practices and well known conventions so that others working on the codebase finds it easy to extend with newer features.
