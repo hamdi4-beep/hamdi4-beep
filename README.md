@@ -7,7 +7,7 @@ I write scalable and maintainable source code by following best practices and we
 
 I approach the development of every application with simplicity in mind so that way I can reduce unnecessary complexities to focus on essential functionalities that matter to the bussiness and target audience.
 
-I am genuienly passionate about crafting unique experiences and exchanging ideas in a team-based setting because it leads us to generate creative and innovative ideas to build meaningful projects!
+I am genuienly passionate about crafting unique experiences and exchanging ideas in a team-based setting because they encourage a creative thinking process that helps us build a meaningful project!
 
 With my expertise in the field and a positive attitude, I believe I would make a productive team member and collaborator."</h3>
 
