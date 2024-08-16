@@ -3,13 +3,13 @@
 
 I've worked professionally with React.js, and TypeScript to develop performant and secure applications that work seamlessly on both desktop and mobile devices.
 
-I write scalable and maintainable source code by following best practices and well known conventions so that others working on the codebase finds it easy to extend with newer features.
+I write scalable and maintainable source code by applying best practices and following well known conventions so that others working on the codebase finds it easy to extend with newer features.
 
 I approach the development of every application with simplicity in mind so that way I can reduce unnecessary complexities to focus on essential functionalities that matter to the bussiness and target audience.
 
-I am genuienly passionate about crafting unique experiences and exchanging ideas in a team-based setting because they encourage a creative thinking process that helps us build a meaningful project!
+I am genuienly passionate about crafting unique experiences and exchanging ideas in a team-based setting because they encourage a creative thought process that helps us build a meaningful project!
 
-With my expertise in the field and a positive attitude, I believe I would make a productive team member and collaborator."</h3>
+With my expertise in the field and a positive attitude, I believe I would make a supportive team member and productive collaborator."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
