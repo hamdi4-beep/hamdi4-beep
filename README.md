@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">"I'm a solution-oriented developer driven by a dedication for learning consistently and develop extensive set of skills.
+<h3 align="center">"I'm a solution-oriented developer driven by the dedication to learn consistently and expand my skillset with valuable skills.
 
-I've worked professionally with JavaScript, React.js and TypeScript to develop performant and secure applications that deliver intuitive experience for users.
+I've worked professionally with React.js, and TypeScript to develop performant and secure applications that work seamlessly on both desktop and mobile devices.
 
-I ensure a code that's scalable and maintainable by following best practices which allows for a high-quality codebase that's easily understood by others working on the same project.
+I write scalable and maintainable source code by following best practices and well known conventions so that others working on the codebase finds it easy to extend with newer features.
 
-I approach the development of every application with simplicity at the forefront of the mind which significantly reduces unnecessary complexities and allows for more time to focus on important functionalities that matter to the business and users.
+I approach the development of every application with simplicity in mind so that way I can reduce unnecessary complexities to focus on essential functionalities that matter to the bussiness and target audience.
 
-I am genuienly passionate about crafting unique experiences and exchanging ideas in a team-based setting.
+I am genuienly passionate about crafting unique experiences and exchanging ideas in a team-based setting because it leads us to generate creative and innovative ideas to build meaningful projects!
 
-With my expertise in the field and positive attitude, I believe I would make a great team member and collaborator.
-
-Line by line, we'll develop apps that change lives for the better!"</h3>
+With my expertise in the field and a positive attitude, I believe I would make a productive team member and collaborator."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
