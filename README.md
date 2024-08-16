@@ -5,7 +5,7 @@ I've worked professionally with React.js, and TypeScript to develop performant a
 
 I write scalable and maintainable source code by applying best practices and following well known conventions so that others working on the codebase finds it easy to extend with newer features.
 
-I approach the development of every application with simplicity in mind so that way I can reduce unnecessary complexities to focus on essential functionalities that matter to the bussiness and target audience.
+I approach the development of every application with simplicity in mind so that way I significantly reduce unnecessary complexities to focus on essential functionalities that matter to the bussiness and target audience.
 
 I am genuienly passionate about crafting unique experiences and exchanging ideas in a team-based setting because they encourage a creative thought process that helps us build a meaningful project!
 
