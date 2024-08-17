@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">"I'm a solution-oriented developer driven by the dedication to learn consistently and expand my skillset with valuable skills.
+<h3 align="center">"I'm a solution-oriented developer driven by the dedication to learn consistently and expand my skillset with valuable skills.<br />
 
-I've worked professionally with React.js, and TypeScript to develop performant and secure applications that work seamlessly on both desktop and mobile devices.
+I've worked professionally with React.js, and TypeScript to develop performant and secure applications that work seamlessly on both mobile and desktop devices.
 
-I write scalable and maintainable source code by applying best practices and following well known conventions so that others working on the codebase finds it easy to extend with newer features.
+I write scalable and maintainable source code by applying best practices and following well known conventions so that others working on the codebase finds it easy to implement new features without wasting precious resources in the development cycle.
 
-I approach the development of every application with simplicity in mind so that way I significantly reduce unnecessary complexities to focus on essential functionalities that matter to the bussiness and target audience.
+I approach the development of every application with simplicity in mind to avoid unnecessary complexities. That way, I can stay focused on essential functionalities that matter to the business and target audience. I take usability seriously.
 
-I am genuienly passionate about crafting unique experiences and exchanging ideas in a team-based setting because they encourage a creative thought process that helps us build a meaningful project!
+I am genuinely passionate about crafting unique experiences and exchanging ideas in a team-based setting because they encourage a creative thought process that helps us build a meaningful project!
 
 With my expertise in the field and a positive attitude, I believe I would make a supportive team member and productive collaborator."</h3>
 
