@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
 <h3 align="center">"I'm a solution-oriented developer driven by the dedication to learn consistently and expand my skillset.
 
-If you take a look at my repos, you'll see I approach the development cycle with simplicity in mind to avoid unnecessary complexities. This helps me ensure that tasks are completed within a reasonable timeframe and boundries.
+If you take a look at my repos, you'll see I approach the development cycle with simplicity in mind to avoid unnecessary complexities. This helps me ensure that tasks are completed within a reasonable timeframe and boundaries.
 
 I take usability seriously which is why I start by working on essential features that allow websites and apps to function exactly as intended. This means I have a solid foundation for extending functionalities and making improvements without compromises in time or quality."</h3>
 
