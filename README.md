@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">"I'm a solution-oriented developer driven by the dedication to learn consistently and expand my skillset.
-
-If you take a look at my repos, you'll see I approach the development cycle with simplicity in mind to avoid unnecessary complexities. This helps me ensure that tasks are completed within a reasonable timeframe and boundaries.
-
-I take usability seriously which is why I start by working on essential features that allow websites and apps to function exactly as intended. This means I have a solid foundation for extending functionalities and making improvements without compromises in time or quality."</h3>
+<h3 align="center">"I'm a solution-oriented developer driven by an enduring thirst to learn consistently and expand my skillset. I prioritize simplicity in my code to ensure that requested features are usable, provided on time, and are easy to consume by my clients."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
