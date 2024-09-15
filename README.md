@@ -3,7 +3,7 @@
 
 In my previous role, I worked on e-commerce platform where I implemented filtering functionalities to shift through products that have a specific label.
 
-My previous role also included adding SEO tags and markup data to optimize the website's visibility on SERP (Search Engine Results Page). I gained a good understanding of SEO techniques by working on this task.
+My previous role also included adding SEO tags and writing markup data to optimize the website's visibility on SERP (Search Engine Results Page). I gained a good understanding of SEO techniques by working on this task.
 
 When it comes to building apps, I focus on essential features with simplicity in mind so that the codebase can be extended without running into technical issues. This helps you save time and effort that can be spent doing something more productive."</h3>
 
