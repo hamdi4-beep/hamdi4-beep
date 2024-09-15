@@ -1,11 +1,17 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">"I'm a solution-oriented developer driven by an enduring thirst to learn consistently and expand my skillset. I prioritize simplicity in my code to ensure that requested features are usable, provided on time, and are easy to consume by my clients."</h3>
+<h3 align="center">"I am highly proficient in React.js, TypeScript with a solid foundation in UI/UX fundamentals.
+
+In my previous role, I worked on e-commerce platform where I implemented filtering functionalities to shift through products that have a specific label.
+
+My previous role also included adding SEO tags and markup data to optimize the website's visibility on SERP (Search Engine Results Page). I gained a good understanding of SEO techniques by working on this task.
+
+When it comes to building apps, I focus on essential features with simplicity in mind so that the codebase can be extended without running into technical issues. This helps you save time and effort that can be spent doing something more productive."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hamdi33727935" target="blank"><img src="https://img.shields.io/twitter/follow/hamdi33727935?logo=twitter&style=for-the-badge" alt="hamdi33727935" /></a> </p>
+<p align="left"> <a href="https://x.com/hamdi_beep4" target="blank"><img src="https://img.shields.io/twitter/follow/hamdi33727935?logo=twitter&style=for-the-badge" alt="hamdi_beep4" /></a> </p>
 
-- 🔭 I’m currently working on [Age Calculator](https://github.com/hamdi4-beep/age-calculator-app-main)
+- 🔭 I’m currently working on [Time Tracking Dashboard](https://github.com/hamdi4-beep/time-tracking-dashboard)
 
 - 🌱 I’m currently learning **Java**
 
@@ -15,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hamdi33727935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamdi33727935" height="30" width="40" /></a>
+<a href="https://x.com/hamdi_beep4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamdi_beep4" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hamdi-kamel-bab017b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="hamdi.kamel.10236" height="30" width="40" /></a>
 </p>
 
