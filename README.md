@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">"I am highly proficient in React.js, TypeScript with a solid foundation in UI/UX fundamentals.
+<h3 align="center">I am highly proficient in React.js, TypeScript with a solid foundation in UI/UX fundamentals.
 
 In my previous role, I worked on e-commerce platform where I implemented filtering functionalities to shift through products that have a specific label.
 
 My previous role also included adding SEO tags and writing markup data to optimize the website's visibility on SERP (Search Engine Results Page). I gained a good understanding of SEO techniques by working on this task.
 
-When it comes to building apps, I focus on essential features with simplicity in mind so that the codebase can be extended without running into technical issues. This helps you save time and effort that can be spent doing something more productive."</h3>
+When it comes to building apps, I focus on essential features with simplicity in mind so that the codebase can be extended without running into technical issues. This helps you save time and effort that can be spent doing something more productive.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
