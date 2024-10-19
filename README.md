@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">I'm a frontend engineer focused on developing customer-centric solutions that contribute to business growth and lead to successful outcomes.
+<h3 align="center">[I'm a frontend engineer focused on developing customer-centric solutions that contribute to business growth and lead to successful outcomes.
 
 I specialize in React.js, Node.js, TypeScript, Tailwind CSS.
 
-My growth-mindset always encourages me to expand my knowledge so I can continue to provide high quality value to bussinesses.</h3>
+My growth-mindset always encourages me to expand my knowledge so I can continue to provide high quality value to bussinesses.](https://github.com/hamdi4-beep/interactive-comment-section)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
