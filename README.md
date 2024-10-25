@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">A frontend engineer with customer-centric mindset that values impactful contribution and growth.
+<h3 align="center">A frontend engineer with a user-centric mindset that values impactful contributions and career growth.
 
-By taking performance and efficiency concerns into consideration during the initial stage, I ensure reliable and scalable solutions that survive the test of time.
-
-I continuously expand my skillset and explore other fields such as CyberSecurity, Data Science, Machine Learning, AI.</h3>
+I take performance and efficiency concerns into consideration during the initial stage which ensures a reliable and scalable software solution that stands the test of time..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
