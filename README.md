@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">A frontend engineer with a specific focus on bridging the gap between business objectives and users' motives through UX research. I don't just develop software. I solve technical problems and guarantee impactful end-results.</h3>
+<h3 align="center">A frontend engineer with a specific focus on bridging the gap between business objectives and users' motives through UX research. I don't just develop software. I solve technical problems and deliver impactful end-results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
