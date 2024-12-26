@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
-<p align="left"> <a href="https://x.com/hamdi_beep4" target="blank"><img src="https://img.shields.io/twitter/follow/hamdi33727935?logo=twitter&style=for-the-badge" alt="hamdi_beep4" /></a> </p>
+<p align="left"> <a href="https://x.com/hamdi_beep4" target="blank"><img src="https://img.shields.io/twitter/follow/hamdi_beep4?logo=twitter&style=for-the-badge" alt="hamdi_beep4" /></a> </p>
 
 - 🔭 I’m currently working on [Asynchronous Task Queue](https://github.com/hamdi4-beep/task-queue)
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **JavaScript, TypeScript, React, PHP, User Interface, User Experience**
+- 💬 Ask me about **JavaScript, TypeScript, React.js, Node.js, PHP, User Interface, User Experience**
 
 - 📫 How to reach me **hamdi.devhubs@gmail.com**
 
