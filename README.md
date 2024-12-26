@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">A frontend engineer with a specific focus on bridging the gap between business objectives and users' motives through UX research. I don't just develop software. I solve technical problems and deliver impactful end-results.</h3>
+<h1 align="center">Hey, I'm Hamdi Kamel! 👋</h1>
+<h3 align="center">A software developer with growth-oriented mindset who loves taking on exciting challenges. Always doing the best I can to continuously improve my technical skills and solve bigger pain points.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
 <p align="left"> <a href="https://x.com/hamdi_beep4" target="blank"><img src="https://img.shields.io/twitter/follow/hamdi33727935?logo=twitter&style=for-the-badge" alt="hamdi_beep4" /></a> </p>
 
-- 🔭 I’m currently working on [Interactive Comments Section](https://github.com/hamdi4-beep/interactive-comments-section-main)
+- 🔭 I’m currently working on [Asynchronous Task Queue](https://github.com/hamdi4-beep/task-queue)
 
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **JavaScript, TypeScript, React, PHP, User Interface, User Experience**
 
-- 📫 How to reach me **hamdiakippuden@gmail.com**
+- 📫 How to reach me **hamdi.devhubs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
