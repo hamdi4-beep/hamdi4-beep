@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">A software engineer with professional experience in React.js, TypeScript and Node.js. I have worked professionally on both the frontend and backend, ensured the demands were delivered as requested.
+<h3 align="center">A software developer with professional experience in React.js, TypeScript and Node.js. I have worked professionally on both the frontend and backend, ensured the demands were delivered as requested.
 
 I'm always available for opportunities. So if you have a project you need help with, I'd be happy to get it sorted out for you!</h3>
 
