@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">A software developer with professional experience in React.js, TypeScript and Node.js. I have worked professionally on both the frontend and backend, ensured the demands were delivered as requested.
-
-I'm always available for opportunities. So if you have a project you need help with, I'd be happy to get it sorted out for you!</h3>
+<h3 align="center">A software developer with professional experience in React.js, Node.js and TypeScrupt. I've worked on product-focused projects and ensured deliverables were met within requested timeframe. Currently available for work opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
