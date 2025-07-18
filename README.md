@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://x.com/hamdi_beep4" target="blank"><img src="https://img.shields.io/twitter/follow/hamdi_beep4?logo=twitter&style=for-the-badge" alt="hamdi_beep4" /></a> </p>
 
-- 🔭 I’m currently working on [Comment Section](https://github.com/hamdi4-beep/interactive-comments-section)
+- 🔭 I’m currently working on [comment section](https://github.com/hamdi4-beep/interactive-comments-section)
 
 - 🌱 I’m currently learning **Python**
 
