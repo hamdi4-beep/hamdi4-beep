@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Hamdi Kamel! 👋</h1>
-<h3 align="center">A mid-level software developer with professional experience in React.js, Node.js and TypeScript. I've worked on product-focused projects including e-commerce, and a chemical engineering catalog. I'm always looking for an opportunity to contribute to meaningful projects.</h3>
+<h3 align="center">A mid-level software developer with professional experience in React.js, Node.js and TypeScript. I've worked on product-focused projects including e-commerce, and a chemical engineering catalog. I'm always interested in an opportunity to contribute to meaningful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdi4-beep&label=Profile%20views&color=0e75b6&style=flat" alt="hamdi4-beep" /> </p>
 
