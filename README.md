@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [multi step form](https://github.com/hamdi4-beep/multi-step-form-refactored)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **JavaScript, TypeScript, React.js, Node.js, PHP, User Interface, User Experience**
 
